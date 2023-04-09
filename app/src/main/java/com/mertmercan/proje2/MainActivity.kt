@@ -16,6 +16,8 @@ class MainActivity : AppCompatActivity() {
         val view = binding.root
         setContentView(view)
 
+        //find even and odd .
+
 
     }
     fun button(view : View){
